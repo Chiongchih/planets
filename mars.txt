@@ -1,2 +1,4 @@
 Cold and dry, but everything is my favorite color
 This line is edited by me. 
+haha this is life
+This line is now an merged coflict.
